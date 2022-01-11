@@ -1,15 +1,6 @@
 [{
-    "name": "Capsule House #1",
-    "nftData": "QmXYQXhF9Py9ooijx3X55fL2VuArmAtpoSDn6ropzjpMBS",
-    "mimeType": "image/png",
-    "category": "Art",
-    "price": "50000000",
-    "likecount": "0",
-    "icecount": "0",
-    "id": 1
-}, {
-    "name": "Capsule House #2",
-    "nftData": "QmXw8k2ghjmQ3fzaHkBKAmJf9N4gu2qM4HtHw9CyXzHGRz",
+    "name": "Teriyaki",
+    "nftData": "QmQ1nBaWzhiZFgnhLLaiUa2AzMErjSnES2BahLp4iJfQey",
     "mimeType": "image/png",
     "category": "Art",
     "price": "50000000",
@@ -17,81 +8,21 @@
     "icecount": "0",
     "id": 2
 }, {
-    "name": "Capsule House #3",
-    "nftData": "QmQdGTZ2v1N52Z5L7zj2a4b9Ufnz88K2FMkk7icuxktShu",
+    "name": "IlluminatinNFT",
+    "nftData": "QmavfBSnNBZRrEbfD5JxL5DUkV8SRMcwoT5r6ujWSjrQ2b",
     "mimeType": "image/png",
-    "category": "Art",
+    "category": "Metaverse",
+    "price": "100000",
+    "likecount": "1",
+    "icecount": "0",
+    "id": 1
+}, {
+    "name": "IlluminatiNFT",
+    "nftData": "QmVRkcQXbfUu7bUQcfTCYthGTsF3BKLBa6KFePkEssSgk9",
+    "mimeType": "image/png",
+    "category": "Metaverse",
     "price": "50000000",
     "likecount": "0",
     "icecount": "0",
-    "id": 3
-}, {
-    "name": "Capsule House #4",
-    "nftData": "Qme41MKN6Cr1QZFScmSgkMN9beZSvdcpnrEfPVvdpSQxuD",
-    "mimeType": "image/png",
-    "category": "Art",
-    "price": "100000000",
-    "likecount": "0",
-    "icecount": "0",
-    "id": 4
-},
-{
-    "name": "Capsule House #5",
-    "nftData": "QmadJBbxSkgWq362ch6vEEZwtZvs4Ybdy3CgJrAD6whpRD",
-    "mimeType": "image/png",
-    "category": "Art",
-    "price": "100000000",
-    "likecount": "0",
-    "icecount": "0",
-    "id": 5
-},
-{
-    "name": "Capsule House #6",
-    "nftData": "QmZ7QTVLWu36y2FxFnJPDCF7GaeenNZwPg5xhsCkTTy3Jn",
-    "mimeType": "image/png",
-    "category": "Art",
-    "price": "100000000",
-    "likecount": "0",
-    "icecount": "0",
-    "id": 6
-},
-{
-    "name": "Capsule House #7",
-    "nftData": "QmecZG7nmi26XsfkeV8MBR5pHMNydM2YiU67TyDrMGm1VS",
-    "mimeType": "image/png",
-    "category": "Art",
-    "price": "100000000",
-    "likecount": "0",
-    "icecount": "0",
-    "id": 7
-},
-{
-    "name": "Capsule House #8",
-    "nftData": "QmQcnS6yAQVNK8sbdu1dzuXmur1q9r5FDEGDN6akjpf5uE",
-    "mimeType": "image/png",
-    "category": "Art",
-    "price": "100000000",
-    "likecount": "0",
-    "icecount": "0",
-    "id": 8
-},
-{
-    "name": "Capsule House #9",
-    "nftData": "QmceCmRRhTuuGvJFWzXXTYL4j1Tju9JkfVmZGZCtYkLWox",
-    "mimeType": "image/png",
-    "category": "Art",
-    "price": "100000000",
-    "likecount": "0",
-    "icecount": "0",
-    "id": 9
-},
-{
-    "name": "Capsule House #10",
-    "nftData": "QmdmUrCD3hPMd3saXAXmtVvfb51Mgf6ZRdgW4ho2kxZ2DW",
-    "mimeType": "image/png",
-    "category": "Art",
-    "price": "100000000",
-    "likecount": "0",
-    "icecount": "0",
-    "id": 10
+    "id": 0
 }]
